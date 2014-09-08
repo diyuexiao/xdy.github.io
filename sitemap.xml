@@ -3,22 +3,22 @@
   
   
   <url>
-    <loc>http://yoursite.com/blog/2014/09/07/test223333/</loc>
+    <loc>http://xiangyueche.github.io/blog/2014/09/07/test223333/</loc>
     <lastmod>2014-09-07T22:19:14-04:00</lastmod>
     <priority>0.8</priority>
   </url>
   
   
   <url>
-    <loc>http://yoursite.com/blog/archives/</loc>
-    <lastmod>2014-09-07T22:19:29-04:00</lastmod>
+    <loc>http://xiangyueche.github.io/blog/archives/</loc>
+    <lastmod>2014-09-07T22:22:02-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>http://yoursite.com/</loc>
-    <lastmod>2014-09-07T22:19:29-04:00</lastmod>
+    <loc>http://xiangyueche.github.io/</loc>
+    <lastmod>2014-09-07T22:22:02-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>

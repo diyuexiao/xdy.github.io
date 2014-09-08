@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2014-09-07T22:19:29-04:00</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://xiangyueche.github.io/atom.xml" rel="self"/>
+  <link href="http://xiangyueche.github.io/"/>
+  <updated>2014-09-07T22:22:02-04:00</updated>
+  <id>http://xiangyueche.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Test223333]]></title>
-    <link href="http://yoursite.com/blog/2014/09/07/test223333/"/>
+    <link href="http://xiangyueche.github.io/blog/2014/09/07/test223333/"/>
     <updated>2014-09-07T22:19:14-04:00</updated>
-    <id>http://yoursite.com/blog/2014/09/07/test223333</id>
+    <id>http://xiangyueche.github.io/blog/2014/09/07/test223333</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
